@@ -1,20 +1,13 @@
-<head>
-<style>
 p {
     color: crimson;
 }
 h1 {
     color: black;
-}
-</style>
-</head>   
-<style>
+}   
 body {
     background-color: lightblue;
 }
-</style>
 
-<style>
 ul {
     list-style-type: none;
     margin: 0;
@@ -35,9 +28,7 @@ li a {
 li a:hover {
     background-color: #111;
 }
-</style>
 
-<style>
 table, td, th {
     border: 1px solid crimson;
 }
@@ -48,4 +39,3 @@ table {
 th {
     text-align: left;
 }
-</style>
